@@ -7,7 +7,6 @@ export default function Login () {
     <h1>Hello</h1>
     <p>Enter your name</p>
     <input type="text" />
-    
     </form>
 
   )
