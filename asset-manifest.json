@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gigeco/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gigeco/static/js/main.5706d3d4.chunk.js",
+    "main.js.map": "/gigeco/static/js/main.5706d3d4.chunk.js.map",
+    "runtime-main.js": "/gigeco/static/js/runtime-main.a96713a8.js",
+    "runtime-main.js.map": "/gigeco/static/js/runtime-main.a96713a8.js.map",
+    "static/js/2.7e581900.chunk.js": "/gigeco/static/js/2.7e581900.chunk.js",
+    "static/js/2.7e581900.chunk.js.map": "/gigeco/static/js/2.7e581900.chunk.js.map",
+    "index.html": "/gigeco/index.html",
+    "precache-manifest.de4182cb39ac5a44ea09896a91e648bf.js": "/gigeco/precache-manifest.de4182cb39ac5a44ea09896a91e648bf.js",
+    "service-worker.js": "/gigeco/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gigeco/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7e581900.chunk.js.LICENSE.txt": "/gigeco/static/js/2.7e581900.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gigeco/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96713a8.js",
+    "static/js/2.7e581900.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5706d3d4.chunk.js"
+  ]
+}
