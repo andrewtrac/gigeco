@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gigeco/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gigeco/static/js/main.5e3230d3.chunk.js",
-    "main.js.map": "/gigeco/static/js/main.5e3230d3.chunk.js.map",
+    "main.js": "/gigeco/static/js/main.8b2f9c8b.chunk.js",
+    "main.js.map": "/gigeco/static/js/main.8b2f9c8b.chunk.js.map",
     "runtime-main.js": "/gigeco/static/js/runtime-main.a96713a8.js",
     "runtime-main.js.map": "/gigeco/static/js/runtime-main.a96713a8.js.map",
     "static/js/2.1051fcfe.chunk.js": "/gigeco/static/js/2.1051fcfe.chunk.js",
     "static/js/2.1051fcfe.chunk.js.map": "/gigeco/static/js/2.1051fcfe.chunk.js.map",
     "index.html": "/gigeco/index.html",
-    "precache-manifest.80b42409ed482f7c550efc981110fc2a.js": "/gigeco/precache-manifest.80b42409ed482f7c550efc981110fc2a.js",
+    "precache-manifest.5fdd6fa5439e3f983492d52aa9623987.js": "/gigeco/precache-manifest.5fdd6fa5439e3f983492d52aa9623987.js",
     "service-worker.js": "/gigeco/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/gigeco/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.1051fcfe.chunk.js.LICENSE.txt": "/gigeco/static/js/2.1051fcfe.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a96713a8.js",
     "static/js/2.1051fcfe.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5e3230d3.chunk.js"
+    "static/js/main.8b2f9c8b.chunk.js"
   ]
 }
