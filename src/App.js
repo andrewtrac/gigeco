@@ -1,13 +1,11 @@
 import React from 'react';
 import './App.css';
-import Login from './components/Login'
-import Registration from './components/Registration'
-
 function App() {
 
   return (
     <div className="App">
-          <Registration />
+      <a href="/login">Login</a>
+      <a href="/registration">Registration</a>
     </div>
   );
 }
