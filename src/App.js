@@ -11,11 +11,11 @@ function App() {
     <HashRouter basename='/'>
     <div>
      <ul>
-      <li><Link to="/login">Login</Link></li>
+      <li><Link to="/">Login</Link></li>
       <li><Link to="/registration">Registration</Link></li>
      </ul>
      <hr />
-     <Route exact path="/login" component={Login} />
+     <Route exact path="/" component={Login} />
      <Route path="/registration" component={Registration} />
      <Route path="/home" component={Home} />
     </div>
