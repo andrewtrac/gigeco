@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c5e32411bb7d03e33214dd9753e39be",
+    "revision": "57310ca1048631dd089dade69f252a4f",
     "url": "/gigeco/index.html"
   },
   {
-    "revision": "5ce5cb9c6070b0d5eb91",
+    "revision": "2a4789b405b4023eec78",
     "url": "/gigeco/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gigeco/static/js/2.bebddd66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ce5cb9c6070b0d5eb91",
-    "url": "/gigeco/static/js/main.3f007cf6.chunk.js"
+    "revision": "2a4789b405b4023eec78",
+    "url": "/gigeco/static/js/main.61ffe118.chunk.js"
   },
   {
     "revision": "97d1a2e610349687730a",
