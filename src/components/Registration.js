@@ -1,12 +1,14 @@
 import React, { useEffect } from 'react'
 
 export default function Registration () {
-  
+
+
   useEffect(() => {
-    window.memberstack.init(); // mount
-    return () => {
-      window.memberstack.destroy(); // unmount
-    }
+    let script = document.createElement('script');
+    script.src = 'https://api.memberstack.io/static/memberstack.js?custom';
+    script.setAttribute('data-memberstack-id', '335d53e2477f259d83f9b05ece497148');
+    script.async = true;
+    document.body.appendChild(script);
   }, [])
 
   return (
