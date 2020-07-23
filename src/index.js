@@ -1,27 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Route, Link, BrowserRouter as Router } from 'react-router-dom';
 import './index.css';
 import App from './App';
-import Home from './components/Home'
-import Login from './components/Login'
-import Registration from './components/Registration'
 import * as serviceWorker from './serviceWorker';
 
-const routing = (
-  <Router>
-    <div>
-      <Route exact path="/" component={App} />
-      <Route path="/home" component={Home} />
-      <Route path="/login" component={Login} />
-      <Route path="/registration" component={Registration} />
-    </div>
-  </Router>
-)
-
-
-
-ReactDOM.render(routing,
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
   document.getElementById('root')
 );
 
