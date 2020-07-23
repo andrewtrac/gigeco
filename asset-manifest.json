@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/gigeco/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gigeco/static/js/main.1bdbf101.chunk.js",
-    "main.js.map": "/gigeco/static/js/main.1bdbf101.chunk.js.map",
+    "main.js": "/gigeco/static/js/main.3f007cf6.chunk.js",
+    "main.js.map": "/gigeco/static/js/main.3f007cf6.chunk.js.map",
     "runtime-main.js": "/gigeco/static/js/runtime-main.a96713a8.js",
     "runtime-main.js.map": "/gigeco/static/js/runtime-main.a96713a8.js.map",
-    "static/js/2.75a649a3.chunk.js": "/gigeco/static/js/2.75a649a3.chunk.js",
-    "static/js/2.75a649a3.chunk.js.map": "/gigeco/static/js/2.75a649a3.chunk.js.map",
+    "static/js/2.bebddd66.chunk.js": "/gigeco/static/js/2.bebddd66.chunk.js",
+    "static/js/2.bebddd66.chunk.js.map": "/gigeco/static/js/2.bebddd66.chunk.js.map",
     "index.html": "/gigeco/index.html",
-    "precache-manifest.a57ae9ad09721223c767a8b7b9aa6fef.js": "/gigeco/precache-manifest.a57ae9ad09721223c767a8b7b9aa6fef.js",
+    "precache-manifest.45e4f81f343bd4c2cc5d74bcd0055ba5.js": "/gigeco/precache-manifest.45e4f81f343bd4c2cc5d74bcd0055ba5.js",
     "service-worker.js": "/gigeco/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/gigeco/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.75a649a3.chunk.js.LICENSE.txt": "/gigeco/static/js/2.75a649a3.chunk.js.LICENSE.txt"
+    "static/js/2.bebddd66.chunk.js.LICENSE.txt": "/gigeco/static/js/2.bebddd66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a96713a8.js",
-    "static/js/2.75a649a3.chunk.js",
+    "static/js/2.bebddd66.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1bdbf101.chunk.js"
+    "static/js/main.3f007cf6.chunk.js"
   ]
 }
