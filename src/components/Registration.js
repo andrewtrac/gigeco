@@ -17,7 +17,7 @@ export default function Registration () {
     <form data-ms-form="signup">
       <input ms-field="email" />
       <input ms-field="password" />
-      <input type="submit" value="Sign up" />
+      <input type="submit" value="Sign up" data-ms-membership="5f18b29a374769000482e027"/>
     </form>
   )
 
